@@ -4,9 +4,9 @@
         "discord_lang" : "pt-BR"
     },
     {
-        "cmd_voice_waiting_description" : "Create a waiting room for join request to your temporary channel",
+        "cmd_voice_waiting_description" : "Crie uma sala de espera para solicitação ao seu canal temporário",
         "cmd_voice_bitrate_description" : "Altere a taxa de bits do seu canal de voz temporário",
-        "cmd_voice_block_description" : "Os utilizadores bloqueados não conseguem ver o seu canal de voz temporário",
+        "cmd_voice_block_description" : "Os usuários bloqueados não conseguem ver o seu canal de voz temporário",
         "cmd_voice_claim_description" : "Reclamar um canal de voz temporário e ganhar a propriedade do mesmo",
         "cmd_voice_close_description" : "Elimine o seu canal de voz temporário",
         "cmd_voice_info_description" : "Obter informação sobre um canal de voz temporário",
